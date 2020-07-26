@@ -9,3 +9,4 @@ xlrd
 plotly
 plotly-express
 voila
+pybt
