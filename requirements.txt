@@ -1,7 +1,11 @@
 numpy
 pandas
 matplotlib
-quantstats
 yfinance
+datetime
+quantstats
 ipywidgets
+xlrd
+plotly
+plotly-express
 voila
